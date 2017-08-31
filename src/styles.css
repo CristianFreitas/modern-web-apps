@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+.pacifico{
+    font-family: 'Pacifico';
+}
+.little-text{
+font-size:0.5em;
+}
+
+.medium-text{
+    font-size:1.5em;
+}
+.larger-text{
+    font-size:3em;
+}
